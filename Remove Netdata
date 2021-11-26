@@ -1,1 +1,2 @@
 
+${NETDATA_PREFIX}/usr/libexec/netdata/netdata-uninstaller.sh --yes --env /etc/netdata/.environment
